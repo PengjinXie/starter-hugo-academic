@@ -4,7 +4,7 @@ active: true
 author: admin
 widget_id: ME
 headless: true
-weight: 50
+weight: 20
 title: Biography
 design:
   background:
