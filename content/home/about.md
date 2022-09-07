@@ -5,7 +5,7 @@ author: admin
 widget_id: ME
 headless: true
 weight: 20
-title: Biography
+title: Biography HAHAHAHA
 design:
   background:
     color: "#bab767"
