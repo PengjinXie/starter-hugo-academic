@@ -11,7 +11,8 @@ design:
     color: "#bab767"
     gradient_start: "#e4afaf"
     gradient_end: "#d32a2a"
-    image_darken: 0.3
+    image_darken: 0
     image: ""
+    text_color_light: true
 ---
 T﻿his is PENGJIN
